@@ -1,3 +1,7 @@
+# Project Info
+Node Version: 18.12.1
+Platform: Windows
+
 # Ethers Simple Storage
 
 This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
